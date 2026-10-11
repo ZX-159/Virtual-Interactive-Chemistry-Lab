@@ -25,4 +25,4 @@ An interactive, browser-based chemistry lab designed to simulate real-world expe
   Conduct experiments without real-world risks.
 
 ---
-Link to test BETA version: https://virtual-interactive-chemistry-lab.zixu159.workers.dev/
+Link to test BETA version: [https://virtual-interactive-chemistry-lab.zixu159.workers.dev/](https://virtual-interactive-chemistry-lab.zxweb.workers.dev/)
